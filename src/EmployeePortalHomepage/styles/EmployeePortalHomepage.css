@@ -1,0 +1,27 @@
+
+/* // ----------------- EmployeePortalHomepageHeader start -------------------- */
+
+.EmployeePortalHomepageHeader_container{
+  width: 100%;
+  border: 1px solid rgba(0,0,0,0.6);
+
+}
+.EmployeePortalHomepageHeader_subcontainer{
+  border: 1px solid rgba(0,0,0,0.6);
+
+}
+.EmployeePortalHomepageHeader_nav_menu_container{
+  border: 1px solid rgba(0,0,0,0.6);
+  
+}
+.EmployeePortalHomepageHeader_nav_menu{
+  border: 1px solid rgba(0,0,0,0.6);
+
+}
+.EmployeePortalHomepageHeader_nav_menu_btns_container{
+  border: 1px solid rgba(0,0,0,0.6);
+
+}
+
+
+/* * // ----------------- EmployeePortalHomepageHeader end ------------------- */ 
